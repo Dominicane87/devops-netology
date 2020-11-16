@@ -5,3 +5,4 @@
 3. Называющиеся crash.log, override.tf, override.tf.json, .terraformrc, terraform.rc
 4. Оканчивающиеся на .tfvars, _ override.tf, _override.tf.json
 
+New line
